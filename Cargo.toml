@@ -1,0 +1,11 @@
+[package]
+name = "evolution-ternary"
+version = "0.1.0"
+edition = "2021"
+description = "Evolutionary dynamics on ternary strategy spaces"
+license = "MIT"
+repository = "https://github.com/SuperInstance/evolution-ternary"
+keywords = ["evolution", "ternary", "genetic-algorithm", "simulation"]
+categories = ["algorithms", "simulation"]
+
+[dev-dependencies]
